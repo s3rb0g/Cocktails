@@ -1,0 +1,33 @@
+body{
+    background: url('https://d4t7t8y8xqo0t.cloudfront.net/resized/720X480/restaurant%2F663336%2Frestaurant220190604054724.png') no-repeat center fixed;
+    background-size: cover;   
+}
+
+div{
+    width: 420px;
+    height: 400px;
+    border: 3px solid;
+    border-radius: 10px;
+    margin: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: flow-root;
+    background-color: rgb(194, 239, 105);
+    
+}
+
+.grid_temp{
+    background-color: transparent;
+    border: none;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    display: grid;
+    grid-template-columns: 120% 120% 120%;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+}
+
+
